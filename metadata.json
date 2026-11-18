@@ -1,0 +1,8 @@
+{
+  "name": "Recruiter Follow-Up Tracker",
+  "description": "Browser-local recruiter follow-up queue and template draft tracker for RPA and intelligent automation job applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
